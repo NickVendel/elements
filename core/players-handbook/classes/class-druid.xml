@@ -33,19 +33,19 @@
       <p>As a druid, you gain the following class features.</p>
       <h5>HIT POINTS</h5>
       <p>
-        <span class="emphasis">Hit Dice:</span>1d8 per druid level<br />
-        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier<br />
+        <span class="emphasis">Hit Dice:</span>1d8 per druid level <br />
+        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier <br />
         <span class="emphasis">Hit Points at Higher Levels:</span>1d8 (or 5) + your Constitution modifier per druid level after 1st<br />
       </p>
       <h5>PROFICIENCIES</h5>
       <p>
         <span class="emphasis">Armor:</span>Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)<br />
-        <span class="emphasis">Weapons:</span>Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears<br />
-        <span class="emphasis">Tools:</span>Herbalism kit<br />
+        <span class="emphasis">Weapons:</span>Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears <br />
+        <span class="emphasis">Tools:</span>Herbalism kit <br />
       </p>
       <p>
-        <span class="emphasis">Saving Throws:</span>Intelligence, Wisdom<br />
-        <span class="emphasis">Skills:</span>Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival<br />
+        <span class="emphasis">Saving Throws:</span>Intelligence, Wisdom <br />
+        <span class="emphasis">Skills:</span>Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival <br />
       </p>
       <h5>EQUIPMENT</h5>
       <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
@@ -340,7 +340,9 @@
     <sheet>
       <description>You can’t be charmed or frightened by elementals or fey, and you are immune to poison and disease.</description>
     </sheet>
-    <rules />
+    <rules>
+      <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_IMMUNITY_POISON" />
+    </rules>
   </element>
   <element name="Nature’s Sanctuary" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_CIRCLE_LAND_NATURES_SANCTUARY">
     <description>
@@ -649,7 +651,7 @@
       </table>  
     </description>
     <rules>
-      <grant type="Spell" id="ID_PHB_SPELL_MELFS_ACID_ARROW" level="3" spellcasting="Druid" prepared="true" />
+      <grant type="Spell" id="ID_PHB_SPELL_ACID_ARROW" level="3" spellcasting="Druid" prepared="true" />
       <grant type="Spell" id="ID_PHB_SPELL_DARKNESS" level="3" spellcasting="Druid" prepared="true" />
 
       <grant type="Spell" id="ID_PHB_SPELL_WATER_WALK" level="5" spellcasting="Druid" prepared="true" />
@@ -712,7 +714,7 @@
   <element name="Circle of the Moon" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_CIRCLEOFTHEMOON">
     <supports>Druid Circle</supports>
     <description>
-      <p>Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might gofor weeks on end before crossing paths with another humanoid creature, let alone another druid.</p>
+      <p>Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.</p>
       <p class="indent">Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth in bear form to drive off a trespassing monster. The wild is in the druid's blood.</p>
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_CIRCLE_MOON_COMBAT_WILD_SHAPE" />
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_CIRCLE_MOON_CIRCLE_FORMS" />
