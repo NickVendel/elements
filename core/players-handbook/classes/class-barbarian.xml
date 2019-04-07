@@ -42,12 +42,12 @@
       </p>
       <h5>PROFICIENCIES</h5>
       <p>
-        <span class="emphasis">Armor:</span>Light armor, medium armor, shields<br />
-        <span class="emphasis">Weapons:</span>Simple weapons, martial weapons<br />
+        <span class="emphasis">Armor:</span>Light armor, medium armor, shields <br />
+        <span class="emphasis">Weapons:</span>Simple weapons, martial weapons <br />
         <span class="emphasis">Tools:</span>None
       </p>
       <p>
-        <span class="emphasis">Saving Throws:</span>Strength, Constitution<br />
+        <span class="emphasis">Saving Throws:</span>Strength, Constitution <br />
         <span class="emphasis">Skills:</span>Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
       </p>
       <h5>EQUIPMENT</h5>
@@ -406,7 +406,7 @@
   </element>
   <element name="Totem Spirit" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT">
     <description>
-      <p>At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object- an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thickskinned, or if your totem is the eagle, your eyes turn bright yellow.</p>
+      <p>At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object- an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.</p>
       <p>Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.</p>
     </description>
     <sheet>
