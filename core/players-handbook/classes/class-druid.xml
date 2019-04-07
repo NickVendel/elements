@@ -651,7 +651,7 @@
       </table>  
     </description>
     <rules>
-      <grant type="Spell" id="ID_PHB_SPELL_ACID_ARROW" level="3" spellcasting="Druid" prepared="true" />
+      <grant type="Spell" id="ID_PHB_SPELL_MELFS_ACID_ARROW" level="3" spellcasting="Druid" prepared="true" />
       <grant type="Spell" id="ID_PHB_SPELL_DARKNESS" level="3" spellcasting="Druid" prepared="true" />
 
       <grant type="Spell" id="ID_PHB_SPELL_WATER_WALK" level="5" spellcasting="Druid" prepared="true" />
