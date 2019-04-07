@@ -38,18 +38,18 @@
 
       <h5>HIT POINTS</h5>
       <p>
-        <span class="emphasis">Hit Dice:</span>1d8 per rogue level <br/>
-        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier <br/>
+        <span class="emphasis">Hit Dice:</span>1d8 per rogue level<br/>
+        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier<br/>
         <span class="emphasis">Hit Points at Higher Levels:</span>1d8 (or 5) + your Constitution modifier per rogue level after 1st<br/>
       </p>
       <h5>PROFICIENCIES</h5>
       <p>
-        <span class="emphasis">Armor:</span>Light armor <br/>
+        <span class="emphasis">Armor:</span>Light armor<br/>
         <span class="emphasis">Weapons:</span>Simple weapons, hand crossbows, longswords, rapiers, shortswords <br/>
-        <span class="emphasis">Tools:</span>Thieves’ tools <br/>
+        <span class="emphasis">Tools:</span>Thieves’ tools<br/>
       </p>
       <p>
-        <span class="emphasis">Saving Throws:</span>Dexterity, Intelligence <br/>
+        <span class="emphasis">Saving Throws:</span>Dexterity, Intelligence<br/>
         <span class="emphasis">Skills:</span>Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth <br/>
       </p>
       <h5>EQUIPMENT</h5>
