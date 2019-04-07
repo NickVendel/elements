@@ -32,8 +32,8 @@
       <p>As a bard, you gain the following class features.</p>
       <h5>HIT POINTS</h5>
       <p>
-        <span class="emphasis">Hit Dice:</span>1d8 per bard level<br />
-        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier<br />
+        <span class="emphasis">Hit Dice:</span>1d8 per bard level <br />
+        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier <br />
         <span class="emphasis">Hit Points at Higher Levels:</span>1d8 (or 5) + your Constitution modifier per bard level after 1st<br />
       </p>
       <h5>PROFICIENCIES</h5>
@@ -61,7 +61,7 @@
       <ul>
         <li>(a) a rapier, (b) a longsword, or (c) any simple weapon</li>
         <li>(a) a diplomat's pack or (b) an entertainer's pack</li>
-        <li>(a) a lute or (b) any other musical intrument</li>
+        <li>(a) a lute or (b) any other musical instrument</li>
         <li>Leather armor and a dagger</li>
       </ul>
       <div element="ID_WOTC_PHB_CLASS_FEATURE_BARD_BARDIC_INSPIRATION" />
