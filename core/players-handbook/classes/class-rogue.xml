@@ -38,19 +38,19 @@
 
       <h5>HIT POINTS</h5>
       <p>
-        <span class="emphasis">Hit Dice:</span>1d8 per rogue level<br/>
-        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier<br/>
+        <span class="emphasis">Hit Dice:</span>1d8 per rogue level <br/>
+        <span class="emphasis">Hit Points at 1st Level:</span>8 + your Constitution modifier <br/>
         <span class="emphasis">Hit Points at Higher Levels:</span>1d8 (or 5) + your Constitution modifier per rogue level after 1st<br/>
       </p>
       <h5>PROFICIENCIES</h5>
       <p>
-        <span class="emphasis">Armor:</span>Light armor<br/>
-        <span class="emphasis">Weapons:</span>Simple weapons, hand crossbows, longswords, rapiers, shortswords<br/>
-        <span class="emphasis">Tools:</span>Thieves’ tools<br/>
+        <span class="emphasis">Armor:</span>Light armor <br/>
+        <span class="emphasis">Weapons:</span>Simple weapons, hand crossbows, longswords, rapiers, shortswords <br/>
+        <span class="emphasis">Tools:</span>Thieves’ tools <br/>
       </p>
       <p>
-        <span class="emphasis">Saving Throws:</span>Dexterity, Intelligence<br/>
-        <span class="emphasis">Skills:</span>Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth<br/>
+        <span class="emphasis">Saving Throws:</span>Dexterity, Intelligence <br/>
+        <span class="emphasis">Skills:</span>Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth <br/>
       </p>
       <h5>EQUIPMENT</h5>
       <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
@@ -332,7 +332,7 @@
       <description>You ignore all class, race, and level requirements on the use of magic items.</description>
     </sheet>
     <rules>
-      <!-- create grant to circomvent the restrictions -->
+      <!-- create grant to circumvent the restrictions -->
     </rules>
   </element>
   <element name="Thief’s Reflexes" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_THIEF_THIEFS_REFLEXES">
@@ -387,7 +387,7 @@
   </element>
   <element name="Infiltration Expertise" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_INFILTRATIONEXPERTISE">  
     <description>
-      <p>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can’t establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and officiallooking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.</p>
+      <p>Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can’t establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.</p>
       <p>Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.</p>
     </description>
     <sheet>
