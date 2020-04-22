@@ -450,12 +450,12 @@
 		<rules>
 			<select name="Undead Servant" type="Companion" supports="Undead Servant Dust Skeleton" default="ID_DMSG_GPPM_COMPANION_DUST_SKELETON" />
 
-			<stat name="requiem of the ash:undead servant:bonus" value="proficiency" bonus="base" />
-			<stat name="requiem of the ash:undead servant:bonus" value="-2" />			
-			<stat name="companion:acrobatics:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:stealth:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:dexterity:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:constitution:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="undead servant proficiency:bonus" value="proficiency" bonus="base" />
+			<stat name="undead servant proficiency:bonus" value="-2" />			
+			<stat name="companion:acrobatics:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:stealth:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:dexterity:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:constitution:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 
 			<stat name="companion:hp:max" value="level:pale master" />
 			<stat name="companion:hp:max" value="level:pale master" />
@@ -653,12 +653,12 @@
 		<rules>
 			<select name="Undead Servant" type="Companion" supports="Undead Servant Frozen Ghost" default="ID_DMSG_GPPM_COMPANION_FROZEN_GHOST" />
 
-			<stat name="requiem of the frigid:undead servant:bonus" value="proficiency" bonus="base" />
-			<stat name="requiem of the frigid:undead servant:bonus" value="-2" />			
-			<stat name="companion:intimidation:proficiency" value="requiem of the frigid:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:stealth:proficiency" value="requiem of the frigid:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:dexterity:save:proficiency" value="requiem of the frigid:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:charisma:save:proficiency" value="requiem of the frigid:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="undead servant proficiency:bonus" value="proficiency" bonus="base" />
+			<stat name="undead servant proficiency:bonus" value="-2" />			
+			<stat name="companion:intimidation:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:stealth:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:dexterity:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:charisma:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 
 			<stat name="companion:hp:max" value="level:pale master" />
 			<stat name="companion:hp:max" value="level:pale master" />
@@ -851,12 +851,12 @@
 		<rules>
 			<select name="Undead Servant" type="Companion" supports="Undead Servant Tenebrous Shadow" default="ID_DMSG_GPPM_COMPANION_TENEBROUS_SHADOW" />
 
-			<stat name="requiem of the haunt:undead servant:bonus" value="proficiency" bonus="base" />
-			<stat name="requiem of the haunt:undead servant:bonus" value="-2" />			
-			<stat name="companion:insight:proficiency" value="requiem of the haunt:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:stealth:proficiency" value="requiem of the haunt:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:dexterity:save:proficiency" value="requiem of the haunt:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:wisdom:save:proficiency" value="requiem of the haunt:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="undead servant proficiency:bonus" value="proficiency" bonus="base" />
+			<stat name="undead servant proficiency:bonus" value="-2" />			
+			<stat name="companion:insight:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:stealth:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:dexterity:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:wisdom:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 
 			<stat name="companion:hp:max" value="level:pale master" />
 			<stat name="companion:hp:max" value="level:pale master" />
@@ -1049,12 +1049,12 @@
 		<rules>
 			<select name="Undead Servant" type="Companion" supports="Undead Servant Rotting Zombie" default="ID_DMSG_GPPM_COMPANION_ROTTING_ZOMBIE" />
 
-			<stat name="requiem of the torpor:undead servant:bonus" value="proficiency" bonus="base" />
-			<stat name="requiem of the torpor:undead servant:bonus" value="-2" />
-			<stat name="companion:athletics:proficiency" value="requiem of the torpor:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:survival:proficiency" value="requiem of the torpor:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:strength:save:proficiency" value="requiem of the torpor:undead servant:bonus" bonus="character:proficiency" />
-			<stat name="companion:constitution:save:proficiency" value="requiem of the torpor:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="undead servant proficiency:bonus" value="proficiency" bonus="base" />
+			<stat name="undead servant proficiency:bonus" value="-2" />
+			<stat name="companion:athletics:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:survival:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:strength:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
+			<stat name="companion:constitution:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 
 			<stat name="companion:hp:max" value="level:pale master" />
 			<stat name="companion:hp:max" value="level:pale master" />
@@ -1245,7 +1245,7 @@
 		<rules>
 			<stat name="companion:strength" value="1" alt="Resilient" />
 			<stat name="companion:strength:save:proficiency" value="companion:proficiency" bonus="proficiency" />
-			<stat name="companion:strength:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="companion:strength:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 		</rules>
 	</element>
 	<element name="Resilient (Dexterity)" type="Archetype Feature" source="Player’s Handbook" id="ID_DMSG_GPPM_ARCHETYPE_FEATURE_PALE_MASTER_GREATER_UNDEAD_SERVANT_RESILIENT_DEXTERITY">
@@ -1259,7 +1259,7 @@
 		<rules>
 			<stat name="companion:dexterity" value="1" alt="Resilient" />
 			<stat name="companion:dexterity:save:proficiency" value="companion:proficiency" bonus="proficiency" />
-			<stat name="companion:dexterity:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="companion:dexterity:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 		</rules>
 	</element>
 	<element name="Resilient (Constitution)" type="Archetype Feature" source="Player’s Handbook" id="ID_DMSG_GPPM_ARCHETYPE_FEATURE_PALE_MASTER_GREATER_UNDEAD_SERVANT_RESILIENT_CONSTITUTION">
@@ -1273,7 +1273,7 @@
 		<rules>
 			<stat name="companion:constitution" value="1" alt="Resilient" />
 			<stat name="companion:constitution:save:proficiency" value="companion:proficiency" bonus="proficiency" />
-			<stat name="companion:constitution:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="companion:constitution:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 		</rules>
 	</element>
 	<element name="Resilient (Intelligence)" type="Archetype Feature" source="Player’s Handbook" id="ID_DMSG_GPPM_ARCHETYPE_FEATURE_PALE_MASTER_GREATER_UNDEAD_SERVANT_RESILIENT_INTELLIGENCE">
@@ -1287,7 +1287,7 @@
 		<rules>
 			<stat name="companion:intelligence" value="1" alt="Resilient" />
 			<stat name="companion:intelligence:save:proficiency" value="companion:proficiency" bonus="proficiency" />
-			<stat name="companion:intelligence:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="companion:intelligence:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 		</rules>
 	</element>
 	<element name="Resilient (Wisdom)" type="Archetype Feature" source="Player’s Handbook" id="ID_DMSG_GPPM_ARCHETYPE_FEATURE_PALE_MASTER_GREATER_UNDEAD_SERVANT_RESILIENT_WISDOM">
@@ -1301,7 +1301,7 @@
 		<rules>
 			<stat name="companion:wisdom" value="1" alt="Resilient" />
 			<stat name="companion:wisdom:save:proficiency" value="companion:proficiency" bonus="proficiency" />
-			<stat name="companion:wisdom:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="companion:wisdom:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 		</rules>
 	</element>
 	<element name="Resilient (Charisma)" type="Archetype Feature" source="Player’s Handbook" id="ID_DMSG_GPPM_ARCHETYPE_FEATURE_PALE_MASTER_GREATER_UNDEAD_SERVANT_RESILIENT_CHARISMA">
@@ -1315,7 +1315,7 @@
 		<rules>
 			<stat name="companion:charisma" value="1" alt="Resilient" />
 			<stat name="companion:charisma:save:proficiency" value="companion:proficiency" bonus="proficiency" />
-			<stat name="companion:charisma:save:proficiency" value="requiem of the ash:undead servant:bonus" bonus="character:proficiency" />
+			<stat name="companion:charisma:save:proficiency" value="undead servant proficiency:bonus" bonus="character:proficiency" />
 		</rules>
 	</element>
 
